@@ -1,0 +1,1 @@
+import{b as r,j as t,r as n,d as s,B as d}from"./styles-B3CFFrXH.js";function a(e,o){r.createRoot(document.getElementById("root")).render(t.jsx(n.StrictMode,{children:t.jsx(s,{defaultDesktopEnvironment:e.desktopEnvironment,children:t.jsx(d,{applet:e,children:t.jsx(e,{...o})})})}))}export{a as m};

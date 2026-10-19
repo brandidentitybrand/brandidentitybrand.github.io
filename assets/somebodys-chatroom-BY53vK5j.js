@@ -1,0 +1,1 @@
+import{S as o}from"./index-D5e6ScFE.js";import{m as t}from"./appletPage-DoxdZ_Ws.js";const[e,m]=location.pathname.match(/^\/somebodys-chatroom(?:-([^/]+))?\/?$/)??[];e?t(o,{defaultSessionId:m}):(document.title="Not found.",document.getElementById("root").textContent="Not found.");
